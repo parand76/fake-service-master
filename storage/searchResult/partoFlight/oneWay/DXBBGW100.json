@@ -1,0 +1,2851 @@
+{
+    "Success": true,
+    "Error": null,
+    "PricedItineraries": [{
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3863376562386163363566653439643239643631633366323961353830623334263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 500,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T07:05:00",
+                        "ArrivalDateTime": "2021-12-15T08:35:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "613",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 500,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "613",
+                            "Equipment": "787"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T16:55:00",
+                        "ArrivalDateTime": "2021-12-15T19:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "814",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "814",
+                            "Equipment": "787"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3566333831323739396339383437626639313038313630623538376463323439263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 1315,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:40:00",
+                        "ArrivalDateTime": "2021-12-16T00:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "615",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 1315,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "615",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T22:05:00",
+                        "ArrivalDateTime": "2021-12-17T00:35:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "816",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "816",
+                            "Equipment": "E95"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "6364356335303862303336303430616161633262353531383161323764366132263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 935,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:40:00",
+                        "ArrivalDateTime": "2021-12-16T00:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "615",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 935,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "615",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T15:45:00",
+                        "ArrivalDateTime": "2021-12-16T18:15:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "814",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "814",
+                            "Equipment": "319"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3434333634666463646433643436336661306563313130383332656334383432263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 795,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T13:45:00",
+                        "ArrivalDateTime": "2021-12-15T15:15:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "611",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 795,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "611",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T04:30:00",
+                        "ArrivalDateTime": "2021-12-16T07:00:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "810",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "810",
+                            "Equipment": "E95"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3461623237356363373532663436386539396431396639306537353939353039263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 260,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:40:00",
+                        "ArrivalDateTime": "2021-12-16T00:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "615",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 260,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "615",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T04:30:00",
+                        "ArrivalDateTime": "2021-12-16T07:00:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "810",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "810",
+                            "Equipment": "E95"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3339623732343465353033333431343762396330653136376663313165613639263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 1195,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T07:05:00",
+                        "ArrivalDateTime": "2021-12-15T08:35:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "613",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 1195,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "613",
+                            "Equipment": "787"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T04:30:00",
+                        "ArrivalDateTime": "2021-12-16T07:00:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "810",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "810",
+                            "Equipment": "E95"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "RJ",
+            "FareSourceCode": "3461613366346437393434303433623338346265363934656565326630346536263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 223.30,
+                    "TotalFare": 348.57,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 125.27,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 223.30,
+                        "TotalFare": 348.57,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 125.27,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 300,
+                "ConnectionTimePerMinute": 100,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T13:45:00",
+                        "ArrivalDateTime": "2021-12-15T15:15:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "611",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "03:30",
+                        "JourneyDurationPerMinute": 210,
+                        "ConnectionTimePerMinute": 100,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "AMM",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "611",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T16:55:00",
+                        "ArrivalDateTime": "2021-12-15T19:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "814",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "AMM",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "RJ",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "RJ",
+                            "FlightNumber": "814",
+                            "Equipment": "787"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "6236636332323930353138653464326338353238336134313237333236653939263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 242.37,
+                    "TotalFare": 381.25,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 138.88,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 242.37,
+                        "TotalFare": 381.25,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 138.88,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 305,
+                "ConnectionTimePerMinute": 610,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T03:10:00",
+                        "ArrivalDateTime": "2021-12-15T04:45:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "431",
+                        "ResBookDesigCode": "H",
+                        "JourneyDuration": "03:35",
+                        "JourneyDurationPerMinute": 215,
+                        "ConnectionTimePerMinute": 610,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "431",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "6130373065626566343932303461313338613538383731633332393537623564263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 206.96,
+                    "TotalFare": 397.58,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 190.62,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 206.96,
+                        "TotalFare": 397.58,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 190.62,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 304,
+                "ConnectionTimePerMinute": 896,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:25:00",
+                        "ArrivalDateTime": "2021-12-15T23:59:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "429",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "03:34",
+                        "JourneyDurationPerMinute": 214,
+                        "ConnectionTimePerMinute": 896,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "429",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T14:55:00",
+                        "ArrivalDateTime": "2021-12-16T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "3364663032356134636461383465303838626461373361343466396662353165263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 206.96,
+                    "TotalFare": 397.58,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 190.62,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 206.96,
+                        "TotalFare": 397.58,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 190.62,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 305,
+                "ConnectionTimePerMinute": 1430,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T13:30:00",
+                        "ArrivalDateTime": "2021-12-15T15:05:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "427",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "03:35",
+                        "JourneyDurationPerMinute": 215,
+                        "ConnectionTimePerMinute": 1430,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "427",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T14:55:00",
+                        "ArrivalDateTime": "2021-12-16T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3339653061623539663238373435376362376665313136346532386562343330263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 498.35,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 73.53,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 498.35,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 73.53,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 440,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T05:30:00",
+                        "ArrivalDateTime": "2021-12-15T05:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1003",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 440,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1003",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T13:00:00",
+                        "ArrivalDateTime": "2021-12-15T15:15:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "458",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "458",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3266373434376535643962313438653162386461356638633031663037646338263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 498.35,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 73.53,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 498.35,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 73.53,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 555,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:30:00",
+                        "ArrivalDateTime": "2021-12-15T22:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1019",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 555,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1019",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T07:55:00",
+                        "ArrivalDateTime": "2021-12-16T10:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "444",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "444",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3035373230383433613266633439393739623039616532363635303739653762263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 498.35,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 73.53,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 498.35,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 73.53,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 135,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T05:30:00",
+                        "ArrivalDateTime": "2021-12-15T05:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1003",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 135,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1003",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T07:55:00",
+                        "ArrivalDateTime": "2021-12-15T10:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "444",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "444",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3863636435326461646265323430313238393865656365626165653832323964263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 501.07,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 76.25,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 501.07,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 76.25,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 815,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T05:30:00",
+                        "ArrivalDateTime": "2021-12-15T05:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1003",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 815,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1003",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T19:15:00",
+                        "ArrivalDateTime": "2021-12-15T21:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "442",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "442",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3230373438356661323538363462663539336136333262366561646361643931263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 501.07,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 76.25,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 501.07,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 76.25,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 1235,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:30:00",
+                        "ArrivalDateTime": "2021-12-15T22:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1019",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 1235,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1019",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T19:15:00",
+                        "ArrivalDateTime": "2021-12-16T21:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "442",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "442",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "QR",
+            "FareSourceCode": "3064663134313539316131393463396662336533623166613338363066386534263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 424.82,
+                    "TotalFare": 501.07,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 76.25,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 424.82,
+                        "TotalFare": 501.07,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 76.25,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 205,
+                "ConnectionTimePerMinute": 860,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T22:30:00",
+                        "ArrivalDateTime": "2021-12-15T22:40:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "1019",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "01:10",
+                        "JourneyDurationPerMinute": 70,
+                        "ConnectionTimePerMinute": 860,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "DOH",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "1019",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T13:00:00",
+                        "ArrivalDateTime": "2021-12-16T15:15:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "458",
+                        "ResBookDesigCode": "N",
+                        "JourneyDuration": "02:15",
+                        "JourneyDurationPerMinute": 135,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "DOH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "QR",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "QR",
+                            "FlightNumber": "458",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "25K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "TK",
+            "FareSourceCode": "3764396136346663346334613436306439663336353465343363313162333161263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 345.85,
+                    "TotalFare": 550.09,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 204.24,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 345.85,
+                        "TotalFare": 550.09,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 204.24,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 470,
+                "ConnectionTimePerMinute": 1170,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T02:40:00",
+                        "ArrivalDateTime": "2021-12-15T06:35:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "761",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "04:55",
+                        "JourneyDurationPerMinute": 295,
+                        "ConnectionTimePerMinute": 1170,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "IST",
+                        "MarketingAirlineCode": "TK",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "TK",
+                            "FlightNumber": "761",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "30K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T02:05:00",
+                        "ArrivalDateTime": "2021-12-16T05:00:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "802",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "02:55",
+                        "JourneyDurationPerMinute": 175,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "IST",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "TK",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "TK",
+                            "FlightNumber": "802",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "30K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "TK",
+            "FareSourceCode": "6138303239306364663962323463343861366639376432303464613763333439263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 345.85,
+                    "TotalFare": 550.09,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 204.24,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 345.85,
+                        "TotalFare": 550.09,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 204.24,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 480,
+                "ConnectionTimePerMinute": 800,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T08:40:00",
+                        "ArrivalDateTime": "2021-12-15T12:45:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "763",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "05:05",
+                        "JourneyDurationPerMinute": 305,
+                        "ConnectionTimePerMinute": 800,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "IST",
+                        "MarketingAirlineCode": "TK",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "TK",
+                            "FlightNumber": "763",
+                            "Equipment": "77W"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "30K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T02:05:00",
+                        "ArrivalDateTime": "2021-12-16T05:00:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "802",
+                        "ResBookDesigCode": "Q",
+                        "JourneyDuration": "02:55",
+                        "JourneyDurationPerMinute": 175,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "IST",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "TK",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "TK",
+                            "FlightNumber": "802",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "30K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "FZ",
+            "FareSourceCode": "6137313435353161306237613463343239656561666664313933386465636238263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 525.58,
+                    "TotalFare": 577.32,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 51.74,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 525.58,
+                        "TotalFare": 577.32,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 51.74,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 155,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T17:00:00",
+                    "ArrivalDateTime": "2021-12-15T18:35:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "211",
+                    "ResBookDesigCode": "I",
+                    "JourneyDuration": "02:35",
+                    "JourneyDurationPerMinute": 155,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "FZ",
+                    "CabinClassCode": 1,
+                    "OperatingAirline": {
+                        "Code": "FZ",
+                        "FlightNumber": "211",
+                        "Equipment": "73H"
+                    },
+                    "SeatsRemaining": 4,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": "30K",
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": false,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "FZ",
+            "FareSourceCode": "3237333033643739653939353439316439346661323435643933356361653538263130343726383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 4,
+                "ItinTotalFare": {
+                    "BaseFare": 571.53,
+                    "TotalFare": 579.92,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 0.0,
+                    "ServiceTax": 8.39,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 571.53,
+                        "TotalFare": 579.92,
+                        "Commission": 0.0,
+                        "ServiceTax": 8.39,
+                        "Taxes": [{
+                            "Amount": 0.0,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 155,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T17:00:00",
+                    "ArrivalDateTime": "2021-12-15T18:35:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "211",
+                    "ResBookDesigCode": "Lite",
+                    "JourneyDuration": "02:35",
+                    "JourneyDurationPerMinute": 155,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "FZ",
+                    "CabinClassCode": 1,
+                    "OperatingAirline": {
+                        "Code": "FZ",
+                        "FlightNumber": "211",
+                        "Equipment": ""
+                    },
+                    "SeatsRemaining": null,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": null,
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": false,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "FZ",
+            "FareSourceCode": "3735653236636231613631353437666261663730643563323461383266343766263130343726383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 4,
+                "ItinTotalFare": {
+                    "BaseFare": 585.20,
+                    "TotalFare": 593.79,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 0.0,
+                    "ServiceTax": 8.59,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 585.20,
+                        "TotalFare": 593.79,
+                        "Commission": 0.0,
+                        "ServiceTax": 8.59,
+                        "Taxes": [{
+                            "Amount": 0.0,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 155,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T17:00:00",
+                    "ArrivalDateTime": "2021-12-15T18:35:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "211",
+                    "ResBookDesigCode": "Value",
+                    "JourneyDuration": "02:35",
+                    "JourneyDurationPerMinute": 155,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "FZ",
+                    "CabinClassCode": 1,
+                    "OperatingAirline": {
+                        "Code": "FZ",
+                        "FlightNumber": "211",
+                        "Equipment": ""
+                    },
+                    "SeatsRemaining": null,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": null,
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "EK",
+            "FareSourceCode": "3436353139363438323938373464653162653066663131346337646134666365263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 558.26,
+                    "TotalFare": 623.62,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 65.36,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 558.26,
+                        "TotalFare": 623.62,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 65.36,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 160,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T08:00:00",
+                    "ArrivalDateTime": "2021-12-15T09:40:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "941",
+                    "ResBookDesigCode": "K",
+                    "JourneyDuration": "02:40",
+                    "JourneyDurationPerMinute": 160,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "EK",
+                    "CabinClassCode": 1,
+                    "OperatingAirline": {
+                        "Code": "EK",
+                        "FlightNumber": "941",
+                        "Equipment": "77W"
+                    },
+                    "SeatsRemaining": 7,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": "30K",
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "GF",
+            "FareSourceCode": "6462323436383231336631353434623961646634376236393835336462313665263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 577.32,
+                    "TotalFare": 695.78,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 118.46,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 577.32,
+                        "TotalFare": 695.78,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 118.46,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 204,
+                "ConnectionTimePerMinute": 621,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T23:35:00",
+                        "ArrivalDateTime": "2021-12-15T23:59:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "513",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:24",
+                        "JourneyDurationPerMinute": 84,
+                        "ConnectionTimePerMinute": 621,
+                        "DepartureAirportLocationCode": "DXB",
+                        "ArrivalAirportLocationCode": "BAH",
+                        "MarketingAirlineCode": "GF",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "GF",
+                            "FlightNumber": "513",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 7,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T10:20:00",
+                        "ArrivalDateTime": "2021-12-16T12:20:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "201",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "02:00",
+                        "JourneyDurationPerMinute": 120,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BAH",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "GF",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "GF",
+                            "FlightNumber": "201",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 7,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "1 pieces",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": false,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "FZ",
+            "FareSourceCode": "3430316535373737313866303439373338613334353136306436643866303565263130343726383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 4,
+                "ItinTotalFare": {
+                    "BaseFare": 735.54,
+                    "TotalFare": 746.39,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 0.0,
+                    "ServiceTax": 10.85,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 735.54,
+                        "TotalFare": 746.39,
+                        "Commission": 0.0,
+                        "ServiceTax": 10.85,
+                        "Taxes": [{
+                            "Amount": 0.0,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 155,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T17:00:00",
+                    "ArrivalDateTime": "2021-12-15T18:35:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "211",
+                    "ResBookDesigCode": "Flex",
+                    "JourneyDuration": "02:35",
+                    "JourneyDurationPerMinute": 155,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "FZ",
+                    "CabinClassCode": 1,
+                    "OperatingAirline": {
+                        "Code": "FZ",
+                        "FlightNumber": "211",
+                        "Equipment": ""
+                    },
+                    "SeatsRemaining": null,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": null,
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "6261613261353739333031393433633262316433663237613831353765666630263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1219.99,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 70.80,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1219.99,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 70.80,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 235,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T07:00:00",
+                        "ArrivalDateTime": "2021-12-15T08:20:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "5415",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 90,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "5415",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T09:50:00",
+                        "ArrivalDateTime": "2021-12-15T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "3831353133663363616135633466346539393034663433313930363362343732263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1219.99,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 70.80,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1219.99,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 70.80,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 370,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T04:45:00",
+                        "ArrivalDateTime": "2021-12-15T06:05:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "5411",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 225,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "5411",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T09:50:00",
+                        "ArrivalDateTime": "2021-12-15T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "3266373664343461373636363434383639323961393638663832346265383763263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1219.99,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 70.80,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1219.99,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 70.80,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 295,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T06:00:00",
+                        "ArrivalDateTime": "2021-12-15T07:20:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "5413",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 150,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "5413",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T09:50:00",
+                        "ArrivalDateTime": "2021-12-15T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "3661316264303435336533333438333638626565356539616263316463643466263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1219.99,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 70.80,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1219.99,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 70.80,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 665,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T23:50:00",
+                        "ArrivalDateTime": "2021-12-16T01:10:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "5429",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 520,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "5429",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T09:50:00",
+                        "ArrivalDateTime": "2021-12-16T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-16T14:55:00",
+                        "ArrivalDateTime": "2021-12-16T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "6332303838613565306237623431323238363534353062633137313531643332263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1364.32,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 215.13,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1364.32,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 215.13,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 295,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T06:00:00",
+                        "ArrivalDateTime": "2021-12-15T07:20:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "9278",
+                        "ResBookDesigCode": "S",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 150,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "AT",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "9278",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 4,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T09:50:00",
+                        "ArrivalDateTime": "2021-12-15T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": true,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "ME",
+            "FareSourceCode": "3965383665303062393730663436353861356532663334353336343732656638263230373326383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 2,
+                "ItinTotalFare": {
+                    "BaseFare": 1149.19,
+                    "TotalFare": 1364.32,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 215.13,
+                    "ServiceTax": 0.00,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1149.19,
+                        "TotalFare": 1364.32,
+                        "Commission": 0.0,
+                        "ServiceTax": 0.00,
+                        "Taxes": [{
+                            "Amount": 215.13,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 450,
+                "ConnectionTimePerMinute": 235,
+                "FlightSegments": [{
+                        "DepartureDateTime": "2021-12-15T07:00:00",
+                        "ArrivalDateTime": "2021-12-15T08:20:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "9279",
+                        "ResBookDesigCode": "S",
+                        "JourneyDuration": "01:20",
+                        "JourneyDurationPerMinute": 80,
+                        "ConnectionTimePerMinute": 90,
+                        "DepartureAirportLocationCode": "XNB",
+                        "ArrivalAirportLocationCode": "AUH",
+                        "MarketingAirlineCode": "AT",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "9279",
+                            "Equipment": "BUS"
+                        },
+                        "SeatsRemaining": 4,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T09:50:00",
+                        "ArrivalDateTime": "2021-12-15T12:30:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "535",
+                        "ResBookDesigCode": "Y",
+                        "JourneyDuration": "04:40",
+                        "JourneyDurationPerMinute": 280,
+                        "ConnectionTimePerMinute": 145,
+                        "DepartureAirportLocationCode": "AUH",
+                        "ArrivalAirportLocationCode": "BEY",
+                        "MarketingAirlineCode": "EY",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "EY",
+                            "FlightNumber": "535",
+                            "Equipment": "321"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    },
+                    {
+                        "DepartureDateTime": "2021-12-15T14:55:00",
+                        "ArrivalDateTime": "2021-12-15T17:25:00",
+                        "StopQuantity": 0,
+                        "FlightNumber": "322",
+                        "ResBookDesigCode": "L",
+                        "JourneyDuration": "01:30",
+                        "JourneyDurationPerMinute": 90,
+                        "ConnectionTimePerMinute": 0,
+                        "DepartureAirportLocationCode": "BEY",
+                        "ArrivalAirportLocationCode": "BGW",
+                        "MarketingAirlineCode": "ME",
+                        "CabinClassCode": 1,
+                        "OperatingAirline": {
+                            "Code": "ME",
+                            "FlightNumber": "322",
+                            "Equipment": "320"
+                        },
+                        "SeatsRemaining": 9,
+                        "IsCharter": false,
+                        "IsReturn": false,
+                        "Baggage": "23K",
+                        "TechnicalStops": []
+                    }
+                ]
+            }],
+            "IsPassportNameWithSpace": false
+        },
+        {
+            "IsPassportMandatory": false,
+            "IsDestinationAddressMandatory": false,
+            "IsPassportIssueDateMandatory": false,
+            "DirectionInd": 1,
+            "RefundMethod": 0,
+            "ValidatingAirlineCode": "FZ",
+            "FareSourceCode": "3164643330393335626635653465396361346462303666663961393064613864263130343726383638313331",
+            "AirItineraryPricingInfo": {
+                "FareType": 4,
+                "ItinTotalFare": {
+                    "BaseFare": 1517.30,
+                    "TotalFare": 1539.87,
+                    "TotalCommission": 0.0,
+                    "TotalTax": 0.0,
+                    "ServiceTax": 22.57,
+                    "Currency": "USD"
+                },
+                "PtcFareBreakdown": [{
+                    "PassengerFare": {
+                        "BaseFare": 1517.30,
+                        "TotalFare": 1539.87,
+                        "Commission": 0.0,
+                        "ServiceTax": 22.57,
+                        "Taxes": [{
+                            "Amount": 0.0,
+                            "Currency": "USD"
+                        }],
+                        "Currency": "USD"
+                    },
+                    "PassengerTypeQuantity": {
+                        "PassengerType": 1,
+                        "Quantity": 1
+                    }
+                }],
+                "FareInfoes": []
+            },
+            "OriginDestinationOptions": [{
+                "JourneyDurationPerMinute": 155,
+                "ConnectionTimePerMinute": 0,
+                "FlightSegments": [{
+                    "DepartureDateTime": "2021-12-15T17:00:00",
+                    "ArrivalDateTime": "2021-12-15T18:35:00",
+                    "StopQuantity": 0,
+                    "FlightNumber": "211",
+                    "ResBookDesigCode": "Business",
+                    "JourneyDuration": "02:35",
+                    "JourneyDurationPerMinute": 155,
+                    "ConnectionTimePerMinute": 0,
+                    "DepartureAirportLocationCode": "DXB",
+                    "ArrivalAirportLocationCode": "BGW",
+                    "MarketingAirlineCode": "FZ",
+                    "CabinClassCode": 3,
+                    "OperatingAirline": {
+                        "Code": "FZ",
+                        "FlightNumber": "211",
+                        "Equipment": ""
+                    },
+                    "SeatsRemaining": null,
+                    "IsCharter": false,
+                    "IsReturn": false,
+                    "Baggage": null,
+                    "TechnicalStops": []
+                }]
+            }],
+            "IsPassportNameWithSpace": false
+        }
+    ]
+}
